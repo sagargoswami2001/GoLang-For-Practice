@@ -1,2 +1,2 @@
 # GoLang For Practice
-This repo is for learning Go.
+- This repo is for learning Go.
